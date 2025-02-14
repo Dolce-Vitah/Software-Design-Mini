@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5/2s7XQdsc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Office\\Visual Studio\\Software_Design_mini\\MoscowZooAccounting\\MoscowZoo\\MoscowZooAccounting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Office\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\Office\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
