@@ -32,4 +32,4 @@
 
 ## Покрытие тестами
 
-Подтверждение покрытия более 65% кода тестами - [туть](./index.html)
+Подтверждение покрытия более 65% кода тестами - [туть]([./index.html](https://dolce-vitah.github.io/Software-Design-Mini/root/index.html))
